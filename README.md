@@ -11,3 +11,8 @@ Instructions:
  This will check for the .p2p file and run through it's contents to extract the list of IP addresses to block
  
  any questions: github@kohek.xyz
+
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lhu0wvum7myyfsl3m5yl" alt="trackgit-views" />
+</a>
